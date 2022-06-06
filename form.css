@@ -1,0 +1,51 @@
+.form1{
+    background-color: #ff6347;
+    border-radius: 5%;
+    height: 90%;
+    
+}
+.form{
+   
+    width: 50%;
+   
+    position: relative;
+    left:25%;
+    top:5%;
+
+}
+table{
+    font-size: 200%;
+    position: relative;
+    top:100;
+    font-family: 'Poppins', sans-serif;;
+   
+}
+ a{
+     
+    transition: color 0.2s;
+    text-decoration: none;
+    padding: 1px 10px;
+    background-color: orangered;
+    position: relative;
+    
+    color: black;
+    float:left;
+    position:relative;
+    left:20%;
+    font-family: monospace;
+    
+}
+ a:hover
+{
+    background:peachpuff;
+}
+h2{
+    font-size: 50%;
+    font-family: 'Poppins', sans-serif;
+    position:relative;
+    bottom: 50;
+    left:20;
+    background-color:orangered;
+    border-radius: 10%;
+    color: #fff;
+}

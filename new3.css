@@ -1,0 +1,464 @@
+body{
+    background-color:white;
+    min-height: 190%;
+    min-width: none;
+
+}
+
+.footer1 
+{
+    background:orange;
+    color:#ffffff;
+    font-size: 14px;
+    padding:10px;
+    height: 20%;
+    margin:0;
+}
+.button{
+ 
+    position:relative;
+    top: 10%;
+    left: 0%;
+}
+
+
+ ul a{
+     
+    transition: color 0.2s;
+    text-decoration: none;
+    padding: 1px 10px;
+    font-size: 1.25rem;
+    position: relative;
+    margin: 10px;
+    color: black;
+    border-radius: 20px;
+    position:relative;
+    left:70%;
+    font-family: monospace;
+    
+}
+ul a:hover
+{
+    background:peachpuff;
+}
+ul a.active{
+    background: tomato;
+}
+.aboutus{
+    position:relative;
+    left:50%;
+    height: 10px;
+    width:50%;
+    top:5%;
+}
+.essay h1{
+    color:blue;
+    font-family: 'Poppins', sans-serif;
+    
+    
+}
+.loaction{
+    position:relative;
+    left:10%;
+    height: 10px;
+    width:10%;
+    top:500%;
+}
+.title
+{
+    text-decoration: white;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 30px;
+}
+.logo1{
+    position:relative;
+    bottom: 5%;
+}
+.logo1 img{
+    width: 5%;
+    height:20%;
+    border-radius: 50%;
+    position:relative;
+    left:3%;
+    
+    
+}
+.mallin img{
+    position:relative;
+    right:70%;
+    top:200%;
+}
+.mallin{
+    position:relative;
+    left:10%;
+    height: 10px;
+    width:10%;
+    top:100%
+}
+*
+{
+    box-sizing: border-box;
+}
+.col
+{
+    float:left;
+    width:33%;
+    padding:100px;
+    transition: transform 0.5s;
+
+}
+.small-container{
+    height: 200px;
+    width: 90%;
+    
+    
+}
+.small-container h1{
+    font-family:'Poppins', sans-serif; 
+   
+    
+}
+.h1-1{
+    width: 30%;
+    position:relative;
+    left:40%;
+    
+}
+
+.col h4{
+    font-family: sans-serif;
+}
+.row{
+    position: relative;
+    left:2%;
+}
+.col:hover{
+    transform:translateY(-5px);
+}
+.col p{
+    font-family: sans-serif;
+}
+.col a{
+    transition: color 0.2s;
+    text-decoration: none;
+    padding: 1px 10px;
+    font-size: 1.25rem;
+    position: relative;
+    margin: 10px;
+    color: black;
+    position:relative;
+    display:inline-block;
+    background-color: tomato;
+    font-family: monospace;
+    
+}
+
+a:hover
+{
+    background:peachpuff;
+}
+
+
+
+*
+{
+    box-sizing: border-box;
+}
+.col2
+{
+    float:left;
+    width:33%;
+    padding:100px;
+    transition: transform 0.5s;
+
+}
+.small-containe2{
+    height: 200px;
+    width: 90%;
+    
+    
+}
+.small-container2 h1{
+    font-family:'Poppins', sans-serif; 
+    
+}
+.h2-1{
+    width: 30%;
+    position:relative;
+    left:45%;
+}
+.col2 h4{
+    font-family: sans-serif;
+}
+.row2{
+    position: relative;
+    left:2%;
+}
+.col2:hover{
+    transform:translateY(-5px);
+}
+.col2 p{
+    font-family: sans-serif;
+}
+.col2 a{
+    transition: color 0.2s;
+    text-decoration: none;
+    padding: 1px 10px;
+    font-size: 1.25rem;
+    position: relative;
+    margin: 10px;
+    color: black;
+    position:relative;
+    display:inline-block;
+    background-color: tomato;
+    font-family: monospace;
+    
+}
+
+a:hover
+{
+    background:peachpuff;
+}
+*
+{
+    box-sizing: border-box;
+}
+.col3
+{
+    float:left;
+    width:33%;
+    padding:100px;
+    transition: transform 0.5s;
+
+}
+.small-container3{
+    height: 200px;
+    width: 90%;
+    
+    
+}
+.small-container3 h1{
+    font-family:'Poppins', sans-serif; 
+    
+}
+.h3-1{
+    width: 30%;
+    position:relative;
+    left:45%;
+}
+.col3 h4{
+    font-family: sans-serif;
+}
+.row3{
+    position: relative;
+    left:2%;
+}
+.col3:hover{
+    transform:translateY(-5px);
+}
+.col3 p{
+    font-family: sans-serif;
+}
+.col3 a{
+    transition: color 0.2s;
+    text-decoration: none;
+    padding: 1px 10px;
+    font-size: 1.25rem;
+    position: relative;
+    margin: 10px;
+    color: black;
+    position:relative;
+    display:inline-block;
+    background-color: tomato;
+    font-family: monospace;
+    
+}
+
+a:hover
+{
+    background:peachpuff;
+}
+*
+{
+    box-sizing: border-box;
+}
+.col4
+{
+    float:left;
+    width:33%;
+    padding:100px;
+    transition: transform 0.5s;
+    
+
+}
+.small-container4{
+    height: 200px;
+    width: 90%;
+    
+    
+}
+.small-container4 h1{
+    font-family:'Poppins', sans-serif; 
+    
+}
+.h4-1{
+    width: 30%;
+    position:relative;
+    left:55%;
+}
+.col4 h4{
+    font-family: sans-serif;
+}
+.row4{
+    position: relative;
+    left:2%;
+}
+.col4:hover{
+    transform:translateY(-5px);
+}
+.col4 p{
+    font-family: sans-serif;
+}
+.col4 a{
+    transition: color 0.2s;
+    text-decoration: none;
+    padding: 1px 10px;
+    font-size: 1.25rem;
+    position: relative;
+    margin: 10px;
+    color: black;
+    position:relative;
+    display:inline-block;
+    background-color: tomato;
+    font-family: monospace;
+    
+}
+
+a:hover
+{
+    background:peachpuff;
+}
+*
+{
+    box-sizing: border-box;
+}
+.col5
+{
+    float:left;
+    width:33.3%;
+    padding:100px;
+    transition: transform 0.5s;
+    position: relative;
+    left:10%;
+    
+
+}
+.small-container5{
+    height: 200px;
+    width: 90%;
+    
+    
+}
+.small-container5 h1{
+    font-family:'Poppins', sans-serif; 
+    
+}
+.h5-1{
+    width: 30%;
+    position:relative;
+    left:63%;
+}
+.col5 h4{
+    font-family: sans-serif;
+}
+.row5{
+    position: relative;
+    left:2%;
+}
+.col5:hover{
+    transform:translateY(-5px);
+}
+.col5 p{
+    font-family: sans-serif;
+}
+.col5 a{
+    transition: color 0.2s;
+    text-decoration: none;
+    padding: 1px 10px;
+    font-size: 1.25rem;
+    position: relative;
+    margin: 10px;
+    color: black;
+    position:relative;
+    display:inline-block;
+    background-color: tomato;
+    font-family: monospace;
+    
+}
+
+a:hover
+{
+    background:peachpuff;
+}
+*
+{
+    box-sizing: border-box;
+}
+.col6
+{
+    float:left;
+    width:33.3%;
+    padding:100px;
+    transition: transform 0.5s;
+    position: relative;
+    left:10%;
+    
+
+}
+.small-container6{
+    height: 200px;
+    width: 90%;
+    
+    
+}
+.small-container6 h1{
+    font-family:'Poppins', sans-serif; 
+    
+}
+.h6-1{
+    width: 30%;
+    position:relative;
+    left:65%;
+}
+.col6 h4{
+    font-family: sans-serif;
+}
+.row6{
+    position: relative;
+    left:2%;
+}
+.col6:hover{
+    transform:translateY(-5px);
+}
+.col6 p{
+    font-family: sans-serif;
+}
+.col6 a{
+    transition: color 0.2s;
+    text-decoration: none;
+    padding: 1px 10px;
+    font-size: 1.25rem;
+    position: relative;
+    margin: 10px;
+    color: black;
+    position:relative;
+    display:inline-block;
+    background-color: tomato;
+    font-family: monospace;
+    
+}
+
+a:hover
+{
+    background:peachpuff;
+}
